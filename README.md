@@ -1,4 +1,4 @@
-# Hi, I'm Marundhathi 👋
+# Hi, I'm Arundhathi M👋
 
 **Data Analyst · Business & Retail Analytics · MSc Data Science (starting September 2026, University of Birmingham Dubai)**
 
