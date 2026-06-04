@@ -46,7 +46,7 @@ I'm a Psychology, Sociology & Economics graduate from Christ (Deemed to be Unive
 ---
 
 ### 🏪 Retail Sales Intelligence — End-to-End Analytics
-`Python` `SQL` `Power BI` `Apache Airflow` | *[View Project →]*
+`Python` `SQL` `Power BI` | *[View Project →]*
 
 - Consolidated and analysed 9.1M+ rows of 8-year sales data using Python and SQL to extract actionable business insights
 - Built and deployed ML models for churn prediction, customer segmentation, and market basket analysis — achieving 87% accuracy on live sales data
@@ -56,7 +56,7 @@ I'm a Psychology, Sociology & Economics graduate from Christ (Deemed to be Unive
 ---
 
 ### ⚙️ Automated Data Pipeline & Alert System
-`Apache Airflow` `n8n` `Python` `SQL` `Telegram API` | *[View Project →]*
+`Apache Airflow` `n8n` `Python` `SQL` `Telegram API` | *[https://github.com/marundhathi/apacheairflow_email_dag]*
 
 - Orchestrated automated data pipelines using Apache Airflow and n8n for workflow scheduling and automation
 - Designed a real-time notification system using Email and Telegram API integrations to trigger business alerts on key metric thresholds
