@@ -29,7 +29,7 @@ I'm a Psychology, Sociology & Economics graduate from Christ (Deemed to be Unive
 ## 📌 Featured Projects
 
 ### 📊 Data Visualization & Analytics Projects
-`Power BI` `Tableau` `Excel` | *[View Project →]*
+`Power BI` `Tableau` `Excel` | *[https://drive.google.com/drive/folders/134Y36wYPOrx51V2MwlNvYFkZMhbsMpIM?usp=sharing]*
 
 - Developed interactive dashboards analyzing warehouse & retail performance, Netflix content distribution, and streaming viewing behaviour using Power BI, Tableau, and Excel
 - Performed data cleaning, transformation, and KPI analysis — covering sales trends, inventory metrics, genre distribution, movie vs TV mix, geographic spread, and time-based engagement — using Power Query, DAX, calculated fields, and pivot tables
