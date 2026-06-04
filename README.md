@@ -38,7 +38,7 @@ I'm a Psychology, Sociology & Economics graduate from Christ (Deemed to be Unive
 ---
 
 ### 🎓 Admission Prediction & University Recommendation System
-`Python` `Scikit-learn` `Random Forest` `Gradient Boosting` | *[View Project →]*
+`Python` `Scikit-learn` `Random Forest` `Gradient Boosting` | *[https://github.com/marundhathi/admission_prediction_ml]*
 
 - Built ML models to predict graduate admission chances and recommend suitable universities using academic profiles (GRE, TOEFL, CGPA, JEE scores)
 - Achieved 90–94% accuracy using Random Forest and Gradient Boosting on 50K+ records
