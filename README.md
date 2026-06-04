@@ -46,7 +46,7 @@ I'm a Psychology, Sociology & Economics graduate from Christ (Deemed to be Unive
 ---
 
 ### 🏪 Retail Sales Intelligence — End-to-End Analytics
-`Python` `SQL` `Power BI` | *[View Project →]*
+`Python` `SQL` `Power BI` | *[https://github.com/marundhathi/sales_intelligence_ml]*
 
 - Consolidated and analysed 9.1M+ rows of 8-year sales data using Python and SQL to extract actionable business insights
 - Built and deployed ML models for churn prediction, customer segmentation, and market basket analysis — achieving 87% accuracy on live sales data
